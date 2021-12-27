@@ -1,0 +1,18 @@
+{
+  "name": "hapijsbasicpractice",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@hapi/hapi": "^20.2.1",
+    "@hapi/inert": "^6.0.4",
+    "@hapi/vision": "^6.1.0",
+    "hapi-swagger": "^14.2.4",
+    "nodemon": "^2.0.15"
+  }
+}
